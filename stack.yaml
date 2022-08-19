@@ -1,0 +1,6 @@
+# Which stack resolver to use to define package versions for import
+resolver: lts-13.24
+
+# Which packages comprise this project
+packages:
+- .
